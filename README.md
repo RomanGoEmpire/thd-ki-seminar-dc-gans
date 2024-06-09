@@ -1,10 +1,11 @@
-# GANs in Action - Pixel Art Generator
-
 This project is based on the book *GANs in Action*, specifically Chapter 4, but it uses a different dataset from [Kaggle - Pixel Art Dataset](https://www.kaggle.com/datasets/ebrahimelgazar/pixel-art).
 
 ## Overview
 
 The project involves training a Generative Adversarial Network (GAN) to generate pixel art images. The code is used for a presentation in the course "Aktuelle Themen der KI" at the Deggendorf Institute of Technology, as part of the AI Bachelor's program in the 6th semester.
+
+![output](https://github.com/RomanGoEmpire/thd-ki-seminar-dc-gans/assets/71276897/28fc27bf-e5db-4561-9890-608db2b837f1)
+
 
 ## Dataset
 
@@ -24,6 +25,7 @@ You can install the required packages using the following command:
 ```bash
 pip install requiremenets.txt
 ```
+
 
 ## Project Structure
 - `code_demo.ipynb`: This Jupyter Notebook contains the code used for the presentation in the course "Aktuelle Themen der KI".
