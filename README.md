@@ -4,7 +4,7 @@ This project is based on the book *GANs in Action*, specifically Chapter 4, but 
 
 The project involves training a Generative Adversarial Network (GAN) to generate pixel art images. The code is used for a presentation in the course "Aktuelle Themen der KI" at the Deggendorf Institute of Technology, as part of the AI Bachelor's program in the 6th semester.
 
-![output](https://github.com/RomanGoEmpire/thd-ki-seminar-dc-gans/assets/71276897/28fc27bf-e5db-4561-9890-608db2b837f1)
+![output](https://github.com/RomanGoEmpire/thd-ki-seminar-dc-gans/assets/71276897/255ac91e-b24d-47ad-ac6a-c64171240a19)
 
 
 ## Dataset
